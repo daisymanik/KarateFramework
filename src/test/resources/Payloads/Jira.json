@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "project": {
+      "key": "CRE"
+    },
+    "summary": "Issue REST Summary",
+    "description": "Creating an issue",
+    "issuetype": {
+      "name": "Bug"
+    },
+    "labels": [
+      "Automation"
+    ],
+    "assignee": {
+      "name": ""
+    },
+    "environment": "TestEnv",
+    "priority": {
+      "name": "Major"
+    }
+  }
+}

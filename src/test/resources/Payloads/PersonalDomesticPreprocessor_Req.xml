@@ -1,0 +1,9 @@
+{
+  "sourceAccountId":"41375159436b366b32335a6b566d53315753684d2b69464f43427347654b496e2f6a4f6d4971546e622f773d",
+  "transactionAmount":"20",
+  "payeeId":"3970304a4d2b432f453739362b46716630304b756256464869626b4c615565493243442f6f734438534f673d",
+  "transferCurrencyIndicator":"SOURCE_ACCOUNT_CURRENCY",
+  "chargeBearer":"SHARED",
+  "paymentMethod": "GIRO",
+  "remarks":"GOOD"
+}

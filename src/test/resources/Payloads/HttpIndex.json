@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "category": 
+  {
+    "id": 5987,
+    "name": "EditFile"
+  },
+  "name": "doggie",
+  "photoUrls": ["LineKine"],
+  "tags": [
+    {
+      "id": 10,
+      "name": "white"
+    }
+  ],
+  "status": "available"
+}
